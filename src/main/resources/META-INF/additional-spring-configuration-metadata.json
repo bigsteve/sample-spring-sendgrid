@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "stefan.settings.email.warning",
+    "type": "java.lang.String",
+    "description": "A description for 'stefan.settings.email.warning'"
+  },
+  {
+    "name": "stefan.settings.email.internal-domain",
+    "type": "java.lang.String",
+    "description": "A description for 'stefan.settings.email.internal-domain'"
+  },
+  {
+    "name": "spring.sendgrid.api-email-from",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.sendgrid.api-email-from'"
+  }
+]}
