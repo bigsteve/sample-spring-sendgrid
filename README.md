@@ -1,6 +1,9 @@
 Sample Spring Sendgrid integraton
 ===============
 
+[![Java CI with Maven](https://github.com/bigsteve/sample-spring-sendgrid/actions/workflows/maven.yml/badge.svg?branch=main)](https://github.com/bigsteve/sample-spring-sendgrid
+/actions/workflows/maven.yml)
+
 A generic makefile for starting projects
 
 #Overview:
