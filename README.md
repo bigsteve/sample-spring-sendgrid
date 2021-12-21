@@ -40,7 +40,7 @@ json body on post method call (bcc and cc fields not implemented):
 
 * Install and run
 
-Run mvn clean install then run the appication
+Run mvn clean install then run the application
 
 
 #Thanks to:
